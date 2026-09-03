@@ -1,16 +1,14 @@
-## Hi there 👋
+# Paweł Kowalski
 
-<!--
-**Pawelab12/Pawelab12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Tester | QA Tester | Manual Tester
 
-Here are some ideas to get you started:
+Experienced Software Tester with a strong technical background in telecommunications and IT systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Functional, integration, system, regression and UAT testing
+- API testing with Postman and REST API
+- SQL and database testing
+- Log analysis and technical troubleshooting
+- Jira, Jira Xray and Confluence
+- Scrum and Kanban
+
+Currently developing my API testing skills with Postman and building QA projects for my portfolio.
