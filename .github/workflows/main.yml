@@ -1,0 +1,15 @@
+name: Postman API Tests
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+    run-api-tests:
+        runs-on: ubuntu-latest
+            steps:
+                  - name: Checkout repository
+                    uses: actions/checkout@v4
